@@ -1,2 +1,2 @@
 # engine-challenge
-Code challenge sent out to applicants for the Senior Software Engineer role. Are you ready?
+Code challenge sent out to applicants for the Senior Algorithm Engineer role. Are you ready?
